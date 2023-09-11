@@ -4,7 +4,7 @@
 
 
 ~~~bash=
-git config
+**git config**
 ~~~
 Команда настройки параметров для *Git*
 
@@ -15,4 +15,6 @@ git config --global user.name "Your Name"
 git config --global user.email "your_email@whatever.com"
 ~~~~
 
-
+~~~bash=
+**git add**
+~~~

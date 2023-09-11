@@ -13,7 +13,7 @@ LICENSE: [MIT](./lisence.md)
 3. Начало работы с GIT
 4. [Репозитарий](./repositories.md)
 5. [Что такое комиит](./commit.md)
-6. [Для чего нужен gitignore](./.gitignore)
+6. [Для чего нужен gitignore](./gitignore)
 
 
 ----

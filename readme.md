@@ -11,7 +11,7 @@ LICENSE: [MIT](./lisence.md)
 1. Что такое GIT
 2. [git add](./add.md)
 3. Начало работы с GIT
-4. Репозитарий 
+4. [Репозитарий](./repositories.md)
 5. Что такое комиит
 
 ----

@@ -8,13 +8,25 @@ LICENSE: [MIT](./lisence.md)
 ----
 
 ### Cодержание:
-1. Что такое GIT
+1. [Что такое Github](./GIthub.md)
+
+
 2. [git add](./add.md)
+
+
 3. Начало работы с GIT
+
+
 4. [Репозитарий](./repositories.md)
+
+
 5. [Что такое комиит](./commit.md)
+
+
 6. [Для чего нужен gitignore](./gitignore)
-7. [Что такое Github](./GIthub.md)
+
+
+7. 
 
 
 

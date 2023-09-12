@@ -20,7 +20,9 @@ Git работает, позволяя нам сделать снимок тек
 
 
 2. [Что такое Github](./GIthub.md)
+
  
+
 3. [Регистрация и создание проекта на GitHub](./startGit.md)
 
 
@@ -37,9 +39,12 @@ Git работает, позволяя нам сделать снимок тек
 7. [Git status](./status.md)
 
 
-8. [Commit](./commit.md)
+8. [Git Commit](./commit.md)
 
-9. [Для чего нужен gitignore](./gitignore)
+9. [Git Push](./push.md)
+
+
+10. [Для чего нужен gitignore](./gitignore)
 
 
 

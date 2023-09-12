@@ -31,13 +31,15 @@ Git работает, позволяя нам сделать снимок тек
 5. [Что такое репозиторий](./repositories.md)
 
 
-6. [Что такое комиит](./commit.md)
+6. [Git add](./add.md)
 
 
-7. [Для чего нужен gitignore](./gitignore)
+7. [Git status](./status.md)
 
 
-8. [git add](./add.md)
+8. [Commit](./commit.md)
+
+9. [Для чего нужен gitignore](./gitignore)
 
 
 

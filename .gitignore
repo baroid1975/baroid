@@ -1,6 +1,5 @@
 
 .vscode
 *.suo
-*.ntvs*
 *.sln
 *.sm?

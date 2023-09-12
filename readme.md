@@ -44,7 +44,9 @@ Git работает, позволяя нам сделать снимок тек
 9. [Git Push](./push.md)
 
 
-10. [Для чего нужен gitignore](gitignore.md)
+10. [Git init](./init.md)
+
+11. [Для чего нужен gitignore](gitignore.md)
 
 
 

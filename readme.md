@@ -1,7 +1,7 @@
 # Инструкция по работе с GIT
 
 
-LICENSE: [MIT](./lisence.md)
+
 
 ![](./assest/git-logo.png)
 
